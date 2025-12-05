@@ -1,4 +1,4 @@
-#vuploader
+# vuploader
 this python script uploads voice messages to a discord channel
 requires the requests library and python version 3.10
 ```
