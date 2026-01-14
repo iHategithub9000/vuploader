@@ -1,5 +1,5 @@
 # vuploader
-this python script uploads voice messages to a discord channel
+this python script uploads voice messages to a discord channel  
 requires the requests library and python version 3.10
 ```
 usage: voiceUpload.py [-h] [--duration DURATION] [--noisetype NOISETYPE] [--nspec NSPEC] filename channel_id
