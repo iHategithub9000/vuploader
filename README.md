@@ -1,8 +1,8 @@
 # vuploader
 this python script uploads voice messages to a discord channel  
-requires the requests library and python version 3.10
-for full functionality requires ffmpeg and ffprobe
-there's an easter egg in this readme file, can you find it?
+requires the requests library and python version 3.10  
+for full functionality requires ffmpeg and ffprobe  
+there's an easter egg in this readme file, can you find it?  
 ```
 usage: voiceUpload.py [-h] [--duration DURATION] [--noisetype NOISETYPE] [--nspec NSPEC] [--cv] [--cvsr CVSR]
                       filename channel_id
